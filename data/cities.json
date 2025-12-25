@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Vidin",
+      "country": "Bulgaria",
+      "date": "2025-12-25T06:59:45.675Z",
+      "emoji": "BG",
+      "notes": "cadc",
+      "position": {
+        "lat": "44.00895396085386",
+        "lng": "22.851562500000004"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Yekaterinovsky District",
+      "country": "Russian Federation (the)",
+      "date": "2025-12-25T06:59:52.218Z",
+      "emoji": "RU",
+      "notes": "acdc",
+      "position": {
+        "lat": "51.927498270300745",
+        "lng": "44.49462890625001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Paide linn",
+      "country": "Estonia",
+      "date": "2025-12-25T06:59:59.866Z",
+      "emoji": "EE",
+      "notes": "Cwd",
+      "position": {
+        "lat": "58.93950474108081",
+        "lng": "25.576171875"
+      },
+      "id": 5
+    }
+  ]
+}
