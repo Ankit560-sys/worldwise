@@ -21,7 +21,23 @@ A React single-page application to explore cities on an interactive map, with  a
 ```bash
 
 git clone https://github.com/your-username/city-explorer-react.git
-cd city-explorer-react
+
+2. npm install
+3. npm run dev
+4. npm run server 
+
+## 🔧 Backend 
+
+This project uses **JSON Server** as a mock backend to simulate a REST API.
+
+- The backend runs **locally** using JSON Server.
+- It is used to manage city and country data (CRUD operations).
+- The frontend is fully functional and deployed.
+- To use full functionality (add, edit, delete cities), the JSON Server must be running locally.
+
+This approach was chosen to focus on **frontend architecture, routing, state management, and API integration**.  
+The mock backend can be replaced with a real backend in a production environment.
+
 
 
 
